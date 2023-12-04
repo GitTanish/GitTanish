@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GitTanish
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me :- Later
 
 <!---
