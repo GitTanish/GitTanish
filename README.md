@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=39D353&center=true&vCenter=true&width=650&lines=Building+systems+that+don't+fall+apart.;Turning+data+into+decisions.;AI+%7C+Backend+%7C+Whatever+needs+solving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=39D353&center=true&vCenter=true&width=650&lines=Tanish.;Building+AI+systems.;Open+to+interesting+problems." alt="Typing SVG" />
 
 </div>
 
