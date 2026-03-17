@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=C9A84C&center=true&vCenter=true&width=650&lines=I+do+LLMOps+stuff.;Prompt+versioning%2C+eval+pipelines%2C+agents+that+actually+work.;SIH+2025+%E2%80%94+1st+nationally+%C2%B7+built+a+drone+defense+system+for+BEL." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=500&color=C9A84C&center=true&vCenter=true&width=650&lines=I+do+LLMOps+stuff.;Prompt+versioning%2C+eval+pipelines%2C+agents+that+actually+work.;SIH+2025+%E2%80%94+1st+nationally+%C2%B7+built+a+drone+defense+system+for+BEL." alt="Typing SVG" />
 
 </div>
 
