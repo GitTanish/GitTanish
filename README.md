@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=500&color=C9A84C&center=true&vCenter=true&width=650&lines=I+do+LLMOps+stuff.;Prompt+versioning%2C+eval+pipelines%2C+agents+that+actually+work.;SIH+2025+%E2%80%94+1st+nationally+%C2%B7+built+a+drone+defense+system+for+BEL." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=500&color=C9A84C&center=true&vCenter=true&width=650&lines=I+build+AI+systems+and+enjoy+figuring+out+where+they+break.;Retrieval%2C+analytics%2C+autonomous+systems%2C+and+evaluation.;SIH+2025+%E2%80%94+1st+place+nationwide+%C2%B7+built+a+drone+defense+system+for+BEL." alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## About
 
-I'm **Tanish** — I do LLMOps stuff.
+I'm **Tanish**. I build AI/ML systems and enjoy figuring out where they break.
 
-most people building with LLMs are on the application layer. i'm more interested in what sits underneath — how you version prompts, measure them, and trust them enough to ship.
+Lately, I've been working on retrieval, analytics, autonomous systems, and evaluation. Some of my recent projects are **Insight**, **Engine**, and **Light-RAG**.
 
-that interest turned into **Chronicle** — a prompt ops platform with immutable versioning, a Pareto eval engine, robustness testing, and Prometheus observability. also built **[Insight](https://the-insight-ai.streamlit.app/)** — upload a CSV, ask anything, get newspaper-styled charts and a Word report. before all this, won **Smart India Hackathon 2025** (1st nationally) designing an autonomous drone defense system for BEL.
+I enjoy building systems that can detect when something has gone wrong instead of blindly producing an answer.
+
+I won **Smart India Hackathon 2025 (1st place nationwide)** with **SimAstra**, a decentralized drone defense simulation developed for **Bharat Electronics Limited**.
+
+Currently looking for **AI/ML, ML engineering, and backend roles**.
+
+[**Portfolio →**](https://tanishsaroj.me/)
 
 <br/>
 
@@ -22,11 +27,11 @@ that interest turned into **Chronicle** — a prompt ops platform with immutable
 
 | | what | status |
 |---|---|---|
-| 🔒 **SimAstra** | autonomous drone swarm defense · BEL · SIH 2025 winner | closed source |
-| ⚙️ **Chronicle** | prompt version control + eval pipelines + observability | in development |
-| 📊 **[Insight](https://the-insight-ai.streamlit.app/)** | natural language data analyst · CSV → charts → .docx | live |
-| 🤖 **[Heimdall](https://github.com/GitTanish/Heimdall)** | AI code review agent · hooks into github webhooks | open source |
-| 🧠 **[Persona QA Bot](https://github.com/GitTanish/persona-adaptive-qa-bot)** | fine-tuned Phi-3 on QLoRA · Student vs Expert personas | open source |
+| **SimAstra** | autonomous drone defense simulation · BEL · SIH 2025 winner | closed source |
+| **[Insight](https://github.com/GitTanish/Insight)** | deterministic data analyst · natural language → analysis → reports | live |
+| **[Engine](https://github.com/GitTanish/Engine)** | autonomous multi-drone defense simulation · target allocation · tracking · guidance | open source |
+| **[Light-RAG](https://github.com/amMagneto/Light-RAG)** | retrieval and grounding platform · hybrid search · evaluation · citation verification | open source |
+| **[Heimdall](https://github.com/GitTanish/Heimdall)** | AI code review agent · GitHub webhook integration | open source |
 
 <br/>
 
@@ -41,7 +46,7 @@ that interest turned into **Chronicle** — a prompt ops platform with immutable
 <div align="center">
 <br/>
 
-`LangChain` &nbsp;·&nbsp; `Groq` &nbsp;·&nbsp; `Hugging Face` &nbsp;·&nbsp; `QLoRA` &nbsp;·&nbsp; `SQLAlchemy` &nbsp;·&nbsp; `Prometheus` &nbsp;·&nbsp; `Alembic`
+`LangGraph` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `DuckDB` &nbsp;·&nbsp; `SQLAlchemy` &nbsp;·&nbsp; `Pydantic`
 
 </div>
 
