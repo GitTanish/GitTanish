@@ -72,7 +72,7 @@ Currently looking for **AI/ML, ML engineering, and backend roles**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishsaroj)
 &nbsp;
-[![Email](https://img.shields.io/badge/email-tanishsaroj6781@gmail.com-c9a84c?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishsaroj6781@gmail.com)
+[![Email](https://img.shields.io/badge/email-tanish.me%40outlook.com-c9a84c?style=flat-square&logo=gmail&logoColor=white)](mailto:tanish.me@outlook.com)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=GitTanish&style=flat-square&color=C9A84C&label=views" />
 
